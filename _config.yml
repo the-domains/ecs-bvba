@@ -1,0 +1,28 @@
+name: ECS bvba
+favicon: null
+layout_spectrum: 0.9284883453510702
+typography_spectrum: 0.40458395541645586
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9945186728145927
+  lightness: 0.736219018464908
+  saturation: 0.970521277980879
+  rhythmicContrast: 0.5175850144587457
+purpose: []
