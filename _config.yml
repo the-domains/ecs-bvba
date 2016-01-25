@@ -2,6 +2,7 @@ name: ECS bvba
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.99917
+title: 'Dit is een test '
 cta:
   domain: null
   bucket: null
