@@ -1,7 +1,7 @@
 name: ECS bvba
 favicon: null
-layout_spectrum: 0.9284883453510702
-typography_spectrum: 0.40458395541645586
+layout_spectrum: 1
+typography_spectrum: 0.99917
 cta:
   domain: null
   bucket: null
